@@ -6,7 +6,7 @@ We are startup business engaged in electronics, IT, design, and supplier of elec
 
 You can visit and follow our social media here, just click the link below:
 
-bit.ly/broduino
+https://bit.ly/broduino
 
 Best regards,
 -broduino-
